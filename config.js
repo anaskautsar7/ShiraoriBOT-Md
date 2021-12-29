@@ -1,4 +1,4 @@
-global.owner = ['6281351047727'] // Put your number here
+global.owner = ['6289608583160'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -19,17 +19,17 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 'elaina',
   'https://api.lolhuman.xyz': 'uhdahlah',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.xyz': 'ANASKAUTSAR',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'ShiraoriBOT Multi device'
-global.author = 'Ilman'
+global.packname = 'Sakamata Chloe-MD'
+global.author = '©ｖｙｎｕｔｚｘｘ２２'
 
-global.wm = '© ShiraoriBOT-Md Made by Ilman'
+global.wm = '© ChloeBOT-MD Made by ｖｙｎｕｔｚｘｘ２２'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
