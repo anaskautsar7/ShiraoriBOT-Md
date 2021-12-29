@@ -26,11 +26,11 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Sakamata Chloe-MD'
+global.packname = 'ALVYN-BOT'
 global.author = '©ｖｙｎｕｔｚｘｘ２２'
 
-global.wm = '© ChloeBOT-MD Made by ｖｙｎｕｔｚｘｘ２２'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.wm = '© ALVYN-BOT Made by ｖｙｎｕｔｚｘｘ２２'
+global.media = 'https://i.ibb.co/9wW3br0/IMG-20211229-WA0056.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
